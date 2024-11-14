@@ -1,0 +1,10 @@
+[package]
+name = "task_management_system"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+log = "0.4"
+libc = "0.2"
+crossbeam-channel = "0.5.13"
+crossterm = "0.28.1"
